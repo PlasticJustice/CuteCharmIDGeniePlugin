@@ -1,0 +1,9 @@
+\.vs
+\CuteCharmIDGeniePlugin\obj
+\CuteCharmIDGeniePlugin\bin
+\obj
+\bin
+*.pfx
+*.exe
+*.dll
+\packages
